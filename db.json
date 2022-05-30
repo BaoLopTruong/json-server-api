@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "profile": {
+        "name": "Bao1",
+        "age": "23",
+        "phone-number": "091232131",
+        "email": "abc@gmail.com"
+      }
+    },
+    {
+      "id": 2,
+      "profile": {
+        "name": "Bao2",
+        "age": "23",
+        "phone-number": "091232131",
+        "email": "abc@gmail.com"
+      }
+    },
+    {
+      "id": 3,
+      "profile": {
+        "name": "Bao3",
+        "age": "23",
+        "phone-number": "091232131",
+        "email": "abc@gmail.com"
+      }
+    },
+    {
+      "id": 4,
+      "profile": {
+        "name": "Bao4",
+        "age": "23",
+        "phone-number": "091232131",
+        "email": "abc@gmail.com"
+      }
+    },
+    {
+      "id": 5,
+      "profile": {
+        "name": "Bao5",
+        "age": "23",
+        "phone-number": "091232131",
+        "email": "abc@gmail.com"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "answers": {
+    "name": "typicode"
+  }
+}
