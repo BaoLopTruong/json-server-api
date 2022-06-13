@@ -2,58 +2,275 @@
   "users": [
     {
       "id": 1,
-      "profile": {
-        "name": "Bao1",
-        "age": "23",
-        "phone-number": "091232131",
-        "email": "abc@gmail.com"
-      }
+      "username": "abc",
+      "password": "xyz",
+      "author": "teacher"
     },
     {
       "id": 2,
-      "profile": {
-        "name": "Bao2",
-        "age": "23",
-        "phone-number": "091232131",
-        "email": "abc@gmail.com"
-      }
+      "username": "abc",
+      "password": "xyz",
+      "author": "student"
     },
     {
       "id": 3,
-      "profile": {
-        "name": "Bao3",
-        "age": "23",
-        "phone-number": "091232131",
-        "email": "abc@gmail.com"
-      }
+      "username": "abc",
+      "password": "xyz",
+      "author": "student"
+      
     },
     {
       "id": 4,
-      "profile": {
-        "name": "Bao4",
-        "age": "23",
-        "phone-number": "091232131",
-        "email": "abc@gmail.com"
-      }
+      "username": "abc",
+      "password": "xyz",
+      "author": "student"
     },
     {
       "id": 5,
-      "profile": {
-        "name": "Bao5",
-        "age": "23",
-        "phone-number": "091232131",
-        "email": "abc@gmail.com"
-      }
+     "username": "abc",
+     "password": "xyz",
+     "author": "student"
     }
   ],
-  "questions": [
+  "profiles": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "userId": 1,
+      "name": "Bao 1",
+      "age": "18",
+      "phone": "09876654332",
+      "email": "abc@gmail.com",
+      "hometown": "VN"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "name": "Bao 2",
+      "age": "18",
+      "phone": "09876654332",
+      "email": "abc@gmail.com",
+      "hometown": "VN"
     }
   ],
-  "answers": {
-    "name": "typicode"
-  }
+  "topics":[
+    {
+      "id": 1,
+      "topic-name": "Math"
+    },
+    {
+      "id": 2,
+      "topic-name": "English"
+    },
+    {
+      "id": 3,
+      "topic-name": "Physics"
+    },
+    {
+      "id": 4,
+      "topic-name": "Literary"
+    },
+    {
+      "id": 5,
+      "topic-name": "Biological"
+    },
+    {
+      "id": 6,
+      "topic-name": "Information Technology"
+    }
+
+  ],
+  "exams":[
+    {
+      
+      "topicId": 1,
+      "questions":[
+        {
+          "id_ques": 1,
+          "ques": "How old are you 1",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 2,
+          "ques": "How old are you 2",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 3,
+          "ques": "How old are you 3",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        }, {
+          "id_ques": 4,
+          "ques": "How old are you 4",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 5,
+          "ques": "How old are you 5",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 6,
+          "ques": "How old are you 6",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 7,
+          "ques": "How old are you 7",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 8,
+          "ques": "How old are you 8",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 9,
+          "ques": "How old are you 9",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 10,
+          "ques": "How old are you 10",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        }
+      ]
+    },
+  
+    {
+      
+      "topicId": 1,
+      "questions":[
+        {
+          "id_ques": 1,
+          "ques": "How old are you 1",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 2,
+          "ques": "How old are you 2",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 3,
+          "ques": "How old are you 3",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        }, {
+          "id_ques": 4,
+          "ques": "How old are you 4",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 5,
+          "ques": "How old are you 5",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 6,
+          "ques": "How old are you 6",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 7,
+          "ques": "How old are you 7",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 8,
+          "ques": "How old are you 8",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 9,
+          "ques": "How old are you 9",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        },
+        {
+          "id_ques": 10,
+          "ques": "How old are you 10",
+          "selectA": "19",
+          "selectB": "19",
+          "selectC": "19",
+          "selectD": "19",
+          "answer": "19"
+        }
+      ]
+    }
+   
+  ]
 }
