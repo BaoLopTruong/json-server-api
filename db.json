@@ -52,225 +52,201 @@
       "hometown": "VN"
     }
   ],
-  "topics":[
+  "products":[
     {
-      "id": 1,
-      "topic-name": "Math"
+      "id": 71309005,
+      "name": "Bàn ăn gỗ Theresa",
+      "image": "",
+      "amount": 40,
+      "status": "Còn hàng",
+      "price": "5.600.000",
+      "category": "Bàn ăn"
     },
     {
-      "id": 2,
-      "topic-name": "English"
+      "id": 61304005,
+      "name": "Bàn ăn Reno mặt đá",
+      "image": "",
+      "amount": 70,
+      "status": "Còn hàng",
+      "price": "24.200.000",
+      "category": "Bàn ăn"
     },
     {
-      "id": 3,
-      "topic-name": "Physics"
+      "id": 62304003,
+      "name": "Bàn ăn Vitali mặt đá",
+      "image": "",
+      "amount": 40,
+      "status": "Còn hàng",
+      "price": "33.235.000",
+      "category": "Bàn ăn"
     },
     {
-      "id": 4,
-      "topic-name": "Literary"
+      "id": 72638003,
+      "name": "Ghế ăn gỗ Theresa",
+      "image": "",
+      "amount": 50,
+      "status": "Còn hàng",
+      "price": "950.000",
+      "category": "Ghế gỗ"
     },
     {
-      "id": 5,
-      "topic-name": "Biological"
+      "id": 72109004,
+      "name": "Ghế làm việc Zuno",
+      "image": "",
+      "amount": 50,
+      "status": "Còn hàng",
+      "price": "3.800.000",
+      "category": "Ghế gỗ"
     },
     {
-      "id": 6,
-      "topic-name": "Information Technology"
+      "id": 82716001,
+      "name": "Ghế ăn Vitali",
+      "image": "",
+      "amount": 55,
+      "status": "Còn hàng",
+      "price": "4.600.000",
+      "category": "Ghế gỗ"
+    },
+    {
+      "id": 72109001,
+      "name": "Ghế ăn gỗ Lucy màu trắng",
+      "image": "",
+      "amount": 38,
+      "status": "Còn hàng",
+      "price": "1.100.000",
+      "category": "Ghế gỗ"
+    },
+    {
+      "id": 71304041,
+      "name": "Bàn ăn mở rộng Vegas",
+      "image": "",
+      "amount": 80,
+      "status": "Còn hàng",
+      "price": "21.550.000",
+      "category": "Bàn thông minh"
+    },
+    {
+      "id": 71304037,
+      "name": "Bàn ăn mở rộng Gepa",
+      "image": "",
+      "amount": 80,
+      "status": "Còn hàng",
+      "price": "16.770.000",
+      "category": "Bàn thông minh"
+    },
+    {
+      "id": 71304032,
+      "name": "Bàn ăn mặt gốm vân đá Cera",
+      "image": "",
+      "amount": 46,
+      "status": "Còn hàng",
+      "price": "20.790.000",
+      "category": "Bàn thông minh"
+    },
+    {
+      "id": 71338008,
+      "name": "Bàn ăn mở rộng cao cấp Dolas",
+      "image": "",
+      "amount": 66,
+      "status": "Còn hàng",
+      "price": "22.650.000",
+      "category": "Bàn thông minh"
+    },
+    {
+      "id": 83826226,
+      "name": "Tủ ly - tủ bát",
+      "image": "",
+      "amount": 0,
+      "status": "Hết hàng",
+      "price": "2.450.000",
+      "category": "Tủ"
+    },
+    {
+      "id": 83252001,
+      "name": "Giường ngủ Thomas",
+      "image": "",
+      "amount": 	73,
+      "status": "Còn hàng",
+      "price": "12.950.000",
+      "category": "Giường người lớn"
+    },
+    {
+      "id": 83252002,
+      "name": "Giường ngủ Jimmy",
+      "image": "",
+      "amount": 	60,
+      "status": "Còn hàng",
+      "price": "16.320.000",
+      "category": "Giường người lớn"
+    },
+    {
+      "id": 83216008,
+      "name": "Giường ngủ Tara chân gỗ",
+      "image": "",
+      "amount": 	65,
+      "status": "Còn hàng",
+      "price": "19.600.000",
+      "category": "Giường người lớn"
+    },
+    {
+      "id": 83216006,
+      "name": "Giường ngủ Kara 1.6x2m",
+      "image": "",
+      "amount": 	60,
+      "status": "Còn hàng",
+      "price": "14.500.000",
+      "category": "Giường người lớn"
     }
-
   ],
-  "exams":[
+  "orders":[
     {
-      
-      "topicId": 1,
-      "questions":[
-        {
-          "id_ques": 1,
-          "ques": "How old are you 1",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 2,
-          "ques": "How old are you 2",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 3,
-          "ques": "How old are you 3",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        }, {
-          "id_ques": 4,
-          "ques": "How old are you 4",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 5,
-          "ques": "How old are you 5",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 6,
-          "ques": "How old are you 6",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 7,
-          "ques": "How old are you 7",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 8,
-          "ques": "How old are you 8",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 9,
-          "ques": "How old are you 9",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 10,
-          "ques": "How old are you 10",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        }
-      ]
+      "id": "MD0837",
+      "customer": "Triệu Thanh Phú",
+      "orderName": "Ghế làm việc Zuno, Bàn ăn gỗ Theresa",
+      "amount": 2,
+      "total": "9.400.000",
+      "status":"Hoàn thành"
     },
-  
     {
-      
-      "topicId": 1,
-      "questions":[
-        {
-          "id_ques": 1,
-          "ques": "How old are you 1",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 2,
-          "ques": "How old are you 2",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 3,
-          "ques": "How old are you 3",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        }, {
-          "id_ques": 4,
-          "ques": "How old are you 4",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 5,
-          "ques": "How old are you 5",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 6,
-          "ques": "How old are you 6",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 7,
-          "ques": "How old are you 7",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 8,
-          "ques": "How old are you 8",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 9,
-          "ques": "How old are you 9",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        },
-        {
-          "id_ques": 10,
-          "ques": "How old are you 10",
-          "selectA": "19",
-          "selectB": "19",
-          "selectC": "19",
-          "selectD": "19",
-          "answer": "19"
-        }
-      ]
+      "id": "MD8265",
+      "customer": "Nguyễn Thị Ngọc Cẩm",
+      "orderName": "Ghế ăn gỗ Lucy màu trắng",
+      "amount": 1,
+      "total": "3.800.000",
+      "status":"Hoàn thành"
+    },
+    {
+      "id": "MD9835",
+      "customer": "Đặng Hoàng Phúc",
+      "orderName": "Giường ngủ Jimmy, Bàn ăn mở rộng cao cấp Dolas, Ghế làm việc Zuno",
+      "amount": 3,
+      "total": "40.650.000",
+      "status":"Hoàn thành"
+    },
+    {
+      "id": "MD3835",
+      "customer": "Nguyễn Thị Mỹ Yến",
+      "orderName": "Bàn ăn mở rộng Gepa",
+      "amount": 1,
+      "total": "16.770.000",
+      "status":"Chờ thanh toán"
+    },
+    {
+      "id": "MD3947",
+      "customer": "Phạm Thị Ngọc",
+      "orderName": "Bàn ăn Vitali mặt đá, Ghế ăn gỗ Lucy màu trắng",
+      "amount": 2,
+      "total": "19.770.000",
+      "status":"Đang giao hàng"
+    },
+    {
+      "id": "MD8723",
+      "customer": "Ngô Thái An",
+      "orderName": "Giường ngủ Kara 1.6x2m",
+      "amount": 1,
+      "total": "14.500.000",
+      "status":"Đã hủy"
     }
-   
   ]
+
 }
