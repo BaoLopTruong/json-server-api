@@ -2,34 +2,34 @@
   "users": [
     {
       "id": 1,
-      "username": "abc",
-      "password": "xyz",
-      "author": "teacher"
+      "username": "admin",
+      "password": "letmein",
+      "author": "admin"
     },
     {
       "id": 2,
       "username": "abc",
       "password": "xyz",
-      "author": "student"
+      "author": "staff"
     },
     {
       "id": 3,
       "username": "abc",
       "password": "xyz",
-      "author": "student"
+      "author": "staff"
       
     },
     {
       "id": 4,
       "username": "abc",
       "password": "xyz",
-      "author": "student"
+      "author": "staff"
     },
     {
       "id": 5,
      "username": "abc",
      "password": "xyz",
-     "author": "student"
+     "author": "staff"
     }
   ],
   "profiles": [
